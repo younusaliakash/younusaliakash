@@ -112,7 +112,7 @@
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/younusaliakash/younusaliakash/blob/main/github-contribution-grid-snake.svg)
+<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/younusaliakash/younusaliakash/blob/main/github-contribution-grid-snake.svg) -->
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
@@ -135,7 +135,7 @@
 
 <!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue) -->
 
-**🐱 My GitHub Data**
+<!-- **🐱 My GitHub Data**
 
 > 🏆 6,804 Contributions in the Year 2021
 >
@@ -147,7 +147,7 @@
 >
 > 🔑 2 Private Repositories
 >
-> **I'm a Night 🦉**
+> **I'm a Night 🦉** -->
 
 ```text
 🌞 Morning    88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.25%
