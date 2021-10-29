@@ -112,10 +112,8 @@
 </summary>
 
 <a target="_blank">
-  <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@younusaliakash/6e77a2d5-a7c1-4636-b07e-1f9cfaddb1e7.svg" >
+  <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@younusaliakash/6e3fa3e5-e650-4683-be64-b6c2aaa5134d.svg" >
 </a>
-
-<figure><embed src="https://wakatime.com/share/@younusaliakash/6e3fa3e5-e650-4683-be64-b6c2aaa5134d.svg"></embed></figure>
 
 <br>
 <br>
