@@ -133,7 +133,7 @@
 
 <!--START_SECTION:waka-->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue) -->
 
 **🐱 My GitHub Data**
 
@@ -173,7 +173,7 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On**
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages:
 Other                    56 hrs 7 mins       ███████████████████████░░   93.27%
@@ -195,18 +195,15 @@ Windows                  60 hrs 10 mins      ███████████�
 
 ```
 
-**I Mostly Code in Jupyter Notebook**
+**I Mostly Code in Javascript**
 
 ```text
-Jupyter Notebook         23 repos            █████░░░░░░░░░░░░░░░░░░░░   23.23%
-Python                   21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21%
-C++                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.13%
+Javascript               23 repos            █████░░░░░░░░░░░░░░░░░░░░   23.23%
 HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.08%
 
 ```
 
-Last Updated on 28/10/2021
+Last Updated on 29/10/2021
 
 <!--END_SECTION:waka-->
 
@@ -222,16 +219,16 @@ Last Updated on 28/10/2021
 #
 
 <p align="center">
-  <a href="https://github.com/JayantGoel001">
+  <a href="https://github.com/younusaliakash">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
 <p align="center">
-  <a href='https://github.com/JayantGoel001/'>
-    <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
+  <a href='https://github.com/younusaliakash'>
+    <img width="75%" src="https://github.com/younusaliakash/younusaliakash/blob/master/metrics.svg"/>
+    <img src="https://github.com/younusaliakash/younusaliakash/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
 </p>
 
