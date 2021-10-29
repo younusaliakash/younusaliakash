@@ -135,38 +135,38 @@
 
 <!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue) -->
 
-<!-- **🐱 My GitHub Data**
+**🐱 My GitHub Data**
 
-> 🏆 6,804 Contributions in the Year 2021
+> 🏆 280 Contributions in the Year 2021 (Oct 2021)
 >
-> 📦 5.1 MB Used in GitHub's Storage
+> 📦 88.1 MB Used in GitHub's Storage
 >
 > 💼 Opted to Hire
 >
-> 📜 227 Public Repositories
+> 📜 55 Public Repositories
 >
-> 🔑 2 Private Repositories
+> 🔑 4 Private Repositories
 >
-> **I'm a Night 🦉** -->
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.25%
-🌆 Daytime    153 commits    ███████░░░░░░░░░░░░░░░░░░   30.0%
-🌃 Evening    139 commits    ██████░░░░░░░░░░░░░░░░░░░   27.25%
-🌙 Night      130 commits    ██████░░░░░░░░░░░░░░░░░░░   25.49%
+🌞 Morning        ████░░░░░░░░░░░░░░░░░░░░░   17.25%
+🌆 Daytime        ███████░░░░░░░░░░░░░░░░░░   30.0%
+🌃 Evening        ██████░░░░░░░░░░░░░░░░░░░   27.25%
+🌙 Night          ██████░░░░░░░░░░░░░░░░░░░   25.49%
 
 ```
 
-📅 **I'm Most Productive on Thursday**
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday       91 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.84%
-Tuesday      69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53%
-Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94%
-Thursday     99 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.41%
-Friday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59%
-Saturday     90 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65%
-Sunday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.04%
+Monday            ████░░░░░░░░░░░░░░░░░░░░░   17.84%
+Tuesday           ███░░░░░░░░░░░░░░░░░░░░░░   13.53%
+Wednesday         ███░░░░░░░░░░░░░░░░░░░░░░   12.94%
+Thursday          ████░░░░░░░░░░░░░░░░░░░░░   19.41%
+Friday            ██░░░░░░░░░░░░░░░░░░░░░░░   10.59%
+Saturday          ████░░░░░░░░░░░░░░░░░░░░░   17.65%
+Sunday            ██░░░░░░░░░░░░░░░░░░░░░░░   8.04%
 
 ```
 
@@ -184,11 +184,11 @@ JSON                     34 mins             ░░░░░░░░░░░�
 
 🔥 Editors:
 Browser                  56 hrs 6 mins       ███████████████████████░░   93.25%
-WebStorm                 4 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.75%
+VS code                  4 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.75%
 
 🐱‍💻 Projects:
-JayantGoel001.github.io  34 hrs 13 mins      ██████████████░░░░░░░░░░░   56.87%
-search_engine            25 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   43.13%
+Vally                    34 hrs 13 mins      ██████████████░░░░░░░░░░░   56.87%
+Other                    25 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   43.13%
 
 💻 Operating System:
 Windows                  60 hrs 10 mins      █████████████████████████   100.0%
@@ -243,25 +243,25 @@ Last Updated on 29/10/2021
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
+  <a href="https://www.linkedin.com/in/younus-ali-akash/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
+  <a href="https://www.facebook.com/md.younus.ali.akash/" target="_blank">
     <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+  <!-- <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
+  </a> -->
+  <a href="https://twitter.com/younusali_akash" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
   </a>
-  <a href="https://dev.to/jayantgoel001">
+  <!-- <a href="https://dev.to/jayantgoel001">
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
+  </a>      -->
 </p>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
   </a>
@@ -277,11 +277,11 @@ Last Updated on 29/10/2021
   <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
   </a>
-  
+
   <a href="https://leetcode.com/JayantGoel001/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/lc.png"/></code>
   </a>
-</p>
+</p> -->
 
 <br/>
 <br/>
