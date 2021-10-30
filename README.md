@@ -111,18 +111,15 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<a target="_blank">
+<!-- <a target="_blank">
   <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@younusaliakash/c90cc845-b93d-409b-b739-8fb0ae116b6d.svg" >
-</a>
-
-<br>
-<br>
+</a> -->
 
 <!--START_SECTION:waka-->
 
 <!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue) -->
 
-**🐱 My GitHub Data**
+<!-- **🐱 My GitHub Data**
 
 > 🏆 301 Contributions in the Year 2021 (Oct 2021)
 >
@@ -135,11 +132,19 @@
 > 🔑 4 Private Repositories
 
 </br>
-</br> 
-</br> 
-</br> 
 </br>
+</br>
+</br>
+</br> -->
 
+<p align="center">
+  <a>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/c2ecc6cc-c73f-4de3-9100-aeb0df925575.svg"/>
+  </a>
+  <a>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/c90cc845-b93d-409b-b739-8fb0ae116b6d.svg" />
+  </a>
+</p>
 <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/66989eca-450b-4c73-9272-f11a9df60f41.svg"/>
