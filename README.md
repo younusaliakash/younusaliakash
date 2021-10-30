@@ -28,8 +28,8 @@
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 **Full Time Job**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/younusaliakash/younusaliakash/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 𝙴𝚗𝚍𝚜_**
-- <img src="./PNG/house.png" width="20px" height="20px"/> 𝙷𝚘𝚞𝚜𝚎 : **Rajshahi, Bangladesh** <img width="20px" height="20px" src="./PNG/Slytherin_ClearBG.png">
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I like to eat Bireyani**
+- <img src="./PNG/house.png" width="20px" height="20px"/> Home : **Rajshahi, Bangladesh** <img width="20px" height="20px" src="./PNG/Slytherin_ClearBG.png">
 
 <br/>
 <br/>
@@ -148,10 +148,6 @@
     <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/c838083f-ef24-4cfd-96f3-f776c467f54e.svg" />
   </a>
 </p>
-
-</br> 
-</br>
-
 <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/9d0c3ead-8391-4761-ab58-80ad01d13155.svg"/>
@@ -160,6 +156,8 @@
     <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/108a37ce-431f-46d1-8047-ab2974b55608.svg" />
   </a>
 </p>
+
+<p align="center"><b>N.B : </b> All Statistic Generating From 30 Oct 2021</p>
 
 ```text
 🌞 Morning        ████░░░░░░░░░░░░░░░░░░░░░   17.25%
