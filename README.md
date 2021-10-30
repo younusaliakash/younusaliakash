@@ -112,7 +112,7 @@
 </summary>
 
 <a target="_blank">
-  <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@younusaliakash/6e3fa3e5-e650-4683-be64-b6c2aaa5134d.svg" >
+  <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@younusaliakash/c90cc845-b93d-409b-b739-8fb0ae116b6d.svg" >
 </a>
 
 <br>
@@ -139,6 +139,27 @@
 </br> 
 </br> 
 </br>
+
+<p align="center">
+  <a>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/66989eca-450b-4c73-9272-f11a9df60f41.svg"/>
+  </a>
+  <a>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/c838083f-ef24-4cfd-96f3-f776c467f54e.svg" />
+  </a>
+</p>
+
+</br> 
+</br>
+
+<p align="center">
+  <a>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/9d0c3ead-8391-4761-ab58-80ad01d13155.svg"/>
+  </a>
+  <a>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/108a37ce-431f-46d1-8047-ab2974b55608.svg" />
+  </a>
+</p>
 
 ```text
 🌞 Morning        ████░░░░░░░░░░░░░░░░░░░░░   17.25%
@@ -197,15 +218,6 @@ HTML                     9 repos             ██░░░░░░░░░�
 Last Updated on 29/10/2021
 
 <!--END_SECTION:waka-->
-
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/e0c7585c-629d-491e-86c9-df6cb7c04118.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/9209d018-c9b3-41b8-a774-9672783bde4e.svg" />
-  </a>
-</p>
 
 #
 
