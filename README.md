@@ -141,7 +141,63 @@
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
-
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src=".github/src/metrics.base.svg" alt="Base" width=></img>
+    </td>
+    <td align="center" width="50%">
+      <img src=".github/src/metrics.plugin.isocalendar.svg" alt="Full-year calendar"></img>
+      <tr>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src=".github/src/metrics.plugin.habits.charts.svg" alt="Habits charts"></img>
+    </td>
+    <td align="center" width="50%">
+       <img src=".github/src/metrics.plugin.followup.user.svg" alt="Follow up"</img>
+    </td>
+  </tr>
+  <tr>
+    <td  align="center" width="50%">
+      <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img>
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10" alt="Top Languages"></img> -->
+    </td>
+    <td  align="center" width="50%">
+       <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img>
+    </td
+  </tr>
+  <tr>
+    <td align="center">
+        <img src=".github/src/metrics.plugin.starlists.languages.svg" alt="Featured star list languages" width="400"></img> 
+    </td>
+    <td align="center">
+        <img src=".github/src/metrics.plugin.achievements.compact.svg" alt="Achievements Compact Display" width="400"></img>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src=".github/src/metrics.plugin.reactions.svg" alt="Reactions" width="50%"></img>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+       <img src=".github/src/metrics.plugin.people.repository.svg" alt="People reprository" width="50%"></img>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="60%"></img>
+      <details><summary>Full history</summary><img src=".github/src/metrics.plugin.calendar.full.svg" alt="Full history" ></img></details>
+    </td>
+  </tr>
+</table>
 
 ![Metrics](https://metrics.lecoq.io/younusaliakash?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&gists=1&people=1&followup=1&lines=1&projects=1&activity=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FDhaka)
 
