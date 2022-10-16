@@ -97,6 +97,10 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=younusaliakash&theme=react-dark&hide_border=true&area=true)
 
+<a>
+    <img align="center" width="100%" height="400px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/>
+</a>
+
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 
 <!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/younusaliakash/younusaliakash/blob/main/github-contribution-grid-snake.svg) -->
