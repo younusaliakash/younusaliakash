@@ -58,20 +58,34 @@
 </summary>
 <br>
 
-<p align="center">
-  <a href="https://github.com/younusaliakash">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=younusaliakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/younusaliakash">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younusaliakash&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
+
+<table align="center" overflow="hidden">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/younusaliakash">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=younusaliakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/younusaliakash">
+        <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=younusaliakash&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+      </a>
+      <tr>
+    </td>
+  </tr>
+</table>
 </details>
 <br>
 <strong>Public Contributions Graph : </strong>
 
+<br/>
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=younusaliakash&theme=react-dark&hide_border=true&area=true)
+<br/>
+
 <strong>Daily Coding Status ( Included Private & Public Repo ) : </strong>
+<br/>
+
 <a>
 <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/>
 </a>
@@ -86,7 +100,7 @@
 </summary>
 <br/>
 
-<table align="center">
+<table align="center" overflow="hidden">
   <tr>
     <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/258675c6-9c6c-45b6-bf05-f861e414267a.svg"/>
