@@ -25,8 +25,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/younusaliakash" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
-
-<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/younusaliakash?label=Followers&style=social"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/younusaliakash?label=Followers&style=social"> •  
  <img src="https://img.shields.io/github/stars/younusaliakash?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
 </p>
@@ -35,7 +34,7 @@
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younusaliakash&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younusaliakash&theme=light&hide_border=true"/>
   </a>
 </p>
 
@@ -49,21 +48,19 @@
 
 <br/>
 
-#
 
-<details open="">
-<summary>
+<!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
-<br>
+<br> -->
 
 
-<table align="center" overflow="hidden">
+<!-- <table align="center" overflow="hidden">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/younusaliakash">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=younusaliakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=younusaliakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=000000&amp&text_color=000000&amp&bg_color=FFFFFF&count_private=true&include_all_commits=true"/>
       </a>
     </td>
     <td align="center" width="50%">
@@ -73,34 +70,32 @@
       <tr>
     </td>
   </tr>
-</table>
-</details>
-<br>
-<strong>Public Contributions Graph : </strong>
+</table> -->
 
-<br/>
+<!-- <strong>Public Contributions Graph : </strong> -->
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=younusaliakash&theme=react-dark&hide_border=true&area=true)
-<br/>
+<!-- <br/> -->
 
-<strong>Daily Coding Status ( Included Private & Public Repo ) : </strong>
-<br/>
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=younusaliakash&theme=react-dark&hide_border=true&area=true) -->
+<!-- <br/> -->
 
-<a>
+<!-- <strong>Daily Coding Status ( Included Private & Public Repo ) : </strong> -->
+<!-- <br/> -->
+
+<!-- <a>
 <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/>
-</a>
+</a> -->
 
-<br/>
+<!-- <br/> -->
 
-#
 
-<summary>
+<!-- <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
-<br/>
+<br/> -->
 
-<table align="center" overflow="hidden">
+<!-- <table align="center" overflow="hidden">
   <tr>
     <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/258675c6-9c6c-45b6-bf05-f861e414267a.svg"/>
@@ -129,17 +124,17 @@
     </td>
   </tr>
 </table>
-<p align="center"><b>N.B : </b> All Statistic Generating From 30 Oct 2021</p>
+<p align="center"><b>N.B : </b> All Statistic Generating From 30 Oct 2021</p> -->
 
 
 #
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/younusaliakash">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
+</p> -->
 
 <table align="center">
   <tr>
@@ -166,6 +161,7 @@
     </td>
     <td  align="center" width="50%">
        <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img>
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=younusaliakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=000000&amp&text_color=000000&amp&bg_color=FFFFFF&count_private=true&include_all_commits=true"/>
     </td
   </tr>
   <tr>
@@ -177,8 +173,40 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="50%">
+      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/258675c6-9c6c-45b6-bf05-f861e414267a.svg"/>
+    </td>
+    <td align="center" width="50%">
+      <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/c90cc845-b93d-409b-b739-8fb0ae116b6d.svg" />
+      <tr>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/66178523-df88-440f-9bb7-bdf92955d149.svg"/>
+    </td>
+    <td align="center" width="50%">
+      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/78a9d8a1-6912-4697-987c-ebd26539abb0.svg"/>
+      <tr>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/389288b0-8e3d-4eef-a1e8-9afa27aebf19.svg"/>
+    </td>
+    <td align="center" width="50%">
+      <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/108a37ce-431f-46d1-8047-ab2974b55608.svg" />
+      <tr>
+    </td>
+  </tr>
+  <tr>
     <td align="center" colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+      <img src="https://activity-graph.herokuapp.com/graph?username=younusaliakash&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/>
     </td>
   </tr>
   <tr>
@@ -220,17 +248,5 @@
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
   </a>
 </p>
-<br/>
 
-<br/>
-<br/>
 
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
-#
-
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
