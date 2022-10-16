@@ -85,14 +85,27 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<p align="center">
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/258675c6-9c6c-45b6-bf05-f861e414267a.svg"/>
+    </td>
+    <td align="center" width="50%">
+      <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/c90cc845-b93d-409b-b739-8fb0ae116b6d.svg" />
+      <tr>
+    </td>
+  </tr>
+</table>
+
+<!-- <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/258675c6-9c6c-45b6-bf05-f861e414267a.svg"/>
   </a>
   <a>
     <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/c90cc845-b93d-409b-b739-8fb0ae116b6d.svg" />
   </a>
-</p>
+</p> -->
 <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/389288b0-8e3d-4eef-a1e8-9afa27aebf19.svg"/>
