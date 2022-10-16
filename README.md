@@ -1,10 +1,9 @@
-<h1 align="center">Hi 
+<h1 align="center">
 <a target="_blank">
-    <img src="./GIF/Hi.gif" width="40px" />
+    <img src="./GIF/Hi.gif" width="40px" style="margin-left: -120px;" />
 </a>
-, 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I'm+Younus+Ali+Akash)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&width=435&lines=+++++++++Hello+%2C+I'm+Younus+Ali+Akash)](https://git.io/typing-svg)
 </h1>
 <h3 align="center">
 
