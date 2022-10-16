@@ -2,8 +2,15 @@
 <a target="_blank">
     <img src="./GIF/Hi.gif" width="40px" />
 </a>
-, I'm Younus Ali Akash</h1>
-<h3 align="center">A Passionate Front-End Developer from Bangladesh</h3>
+, 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I'm+Younus+Ali+Akash)](https://git.io/typing-svg)
+</h1>
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Passionate+Full+Stack+Developer;I'm+expert+in+Html%2C+Scss%2C+Javascript+(ES6%2B);React%2CNode%2CExpress%2CGraphQL%2CSocket;MongoDB+%26+Other+Modern+Technologies;I'm+here+to+help+you)](https://git.io/typing-svg)
+
+</h3>
 
 <br/>
 <br/>
@@ -37,6 +44,8 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younusaliakash&theme=light&hide_border=true"/>
   </a>
 </p>
+
+![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 
 #
 
