@@ -84,7 +84,7 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
-
+<br/>
 
 <table align="center">
   <tr>
@@ -96,33 +96,25 @@
       <tr>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/66178523-df88-440f-9bb7-bdf92955d149.svg"/>
+    </td>
+    <td align="center" width="50%">
+      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/78a9d8a1-6912-4697-987c-ebd26539abb0.svg"/>
+      <tr>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/389288b0-8e3d-4eef-a1e8-9afa27aebf19.svg"/>
+    </td>
+    <td align="center" width="50%">
+      <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/108a37ce-431f-46d1-8047-ab2974b55608.svg" />
+      <tr>
+    </td>
+  </tr>
 </table>
-
-<!-- <p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/258675c6-9c6c-45b6-bf05-f861e414267a.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/c90cc845-b93d-409b-b739-8fb0ae116b6d.svg" />
-  </a>
-</p> -->
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/389288b0-8e3d-4eef-a1e8-9afa27aebf19.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/c838083f-ef24-4cfd-96f3-f776c467f54e.svg" />
-  </a>
-</p>
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/66178523-df88-440f-9bb7-bdf92955d149.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/108a37ce-431f-46d1-8047-ab2974b55608.svg" />
-  </a>
-</p>
-
 <p align="center"><b>N.B : </b> All Statistic Generating From 30 Oct 2021</p>
 
 
