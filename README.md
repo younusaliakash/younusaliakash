@@ -148,7 +148,8 @@ HTML         0 secs          -------------------------   00.11 %
 ```
 
 <!--END_SECTION:waka-->
-    </td>
+
+ </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
