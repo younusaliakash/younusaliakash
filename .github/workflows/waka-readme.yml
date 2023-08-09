@@ -14,3 +14,9 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_OS: "False"
+          SHOW_COMMIT: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_SHORT_INFO: "False"
