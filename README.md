@@ -1,14 +1,10 @@
 <h1>
 𝐇𝐞𝐲, 𝐈'𝐦 𝐘𝐨𝐮𝐧𝐮𝐬 𝐀𝐥𝐢 𝐀𝐤𝐚𝐬𝐡 <a target="_blank">
-    <img src="./GIF/Hi.gif" width="40px" style="margin-left: -120px;" />
+    <img src="./GIF/Hi.gif" width="40px" style="margin-left: 10px;"/>
 </a>
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&width=435&lines=+++++++++Hello+%2C+I'm+Younus+Ali+Akash)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=𝐀+𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞+𝐅𝐮𝐥𝐥+𝐒𝐭𝐚𝐜𝐤+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫;𝐄𝐱𝐩𝐞𝐫𝐭+𝐢𝐧+𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭%2C𝐓𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭+𝐚𝐧𝐝;𝐎𝐭𝐡𝐞𝐫+𝐌𝐨𝐝𝐞𝐫𝐧+𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬;𝐓𝐡𝐚𝐧𝐤𝐬+𝐟𝐨𝐫+𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠!)](https://git.io/typing-svg)
 </h1>
-<h3 align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Passionate+Full+Stack+Developer;I'm+expert+in+Html%2C+Scss%2C+Javascript+(ES6%2B);React%2CNode%2CExpress%2CGraphQL%2CSocket;MongoDB+%26+Other+Modern+Technologies;I'm+here+to+help+you)](https://git.io/typing-svg)
-
-</h3>
 
 <br/>
 <br/>
