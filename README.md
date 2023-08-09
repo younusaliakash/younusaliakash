@@ -134,31 +134,8 @@
   <tr>
     <td align="center" colspan="2">
       <!--START_SECTION:waka-->
-      
-![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 90 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 156 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-🌆 Daytime                69 commits          ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-🌃 Evening                154 commits         █████████████░░░░░░░░░░░░   51.16 % 
-🌙 Night                  66 commits          █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
@@ -183,18 +160,6 @@ Markdown                 3 mins              ░░░░░░░░░░░�
 JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 41 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-vue-form                 3 hrs               █████████████░░░░░░░░░░░░   52.88 % 
-vue-quiz-app             1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-vue-invoice-generator    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-live-test                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-
-💻 Operating System: 
-Windows                  5 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -214,7 +179,7 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/younusaliakash/younusaliakash/master/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2023 23:21:43 UTC
+ Last Updated on 09/08/2023 23:37:09 UTC
 <!--END_SECTION:waka-->
 
  </td>
