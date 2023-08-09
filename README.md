@@ -31,8 +31,6 @@
 
 </p>
 
-#
-
 <!-- <p align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younusaliakash&theme=light&hide_border=true"/>
@@ -85,12 +83,20 @@
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=younusaliakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=000000&amp&text_color=000000&amp&bg_color=FFFFFF&count_private=true&include_all_commits=true"/>
     </td
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center">
         <img src=".github/src/metrics.plugin.starlists.languages.svg" alt="Featured star list languages" width="400"></img> 
     </td>
     <td align="center">
         <img src=".github/src/metrics.plugin.achievements.compact.svg" alt="Achievements Compact Display" width="400"></img>
+    </td>
+  </tr> -->
+  <tr>
+    <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younusaliakash&theme=github"/>
+    </td>
+    <td align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younusaliakash&theme=github&utcOffset=6"/>
     </td>
   </tr>
   <tr>
@@ -116,13 +122,13 @@
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/389288b0-8e3d-4eef-a1e8-9afa27aebf19.svg"/>
     </td>
     <td align="center" width="50%">
-      <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/108a37ce-431f-46d1-8047-ab2974b55608.svg" />
+      <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=younusaliakash"/>
       <tr>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=younusaliakash&theme=chartreuse-light&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=younusaliakash&theme=react-light&area=true&hide_border=true#gh-dark-mode-only" width="100%">
     </td>
   </tr>
   <tr>
