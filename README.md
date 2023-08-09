@@ -126,9 +126,15 @@
       <tr>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" colspan="2">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=younusaliakash&theme=react-light&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+    </td>
+  </tr> -->
+  <tr>
+    <td align="center" colspan="2">
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
     </td>
   </tr>
   <tr>
@@ -146,12 +152,12 @@
        <img src=".github/src/metrics.plugin.people.repository.svg" alt="People reprository" width="50%"></img>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" colspan="2">
       <img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="60%"></img>
       <details><summary>Full history</summary><img src=".github/src/metrics.plugin.calendar.full.svg" alt="Full history" ></img></details>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 
