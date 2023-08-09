@@ -12,14 +12,14 @@
   <img align="right" height="280" width="400" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Front-End Development**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Backend Technogolies**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍 and 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 **Full Time Job**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/younusaliakash/younusaliakash/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I like to eat Bireyani**
-- <img src="./PNG/house.png" width="20px" height="20px"/> Home : **Rajshahi, Bangladesh** <img width="20px" height="20px" src="./PNG/Slytherin_ClearBG.png">
+- 🔭 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 **𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
+- 🌱 𝐈'𝐦 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 **𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬**
+- 👯 𝐈'𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐂𝐥𝐨𝐮𝐝**
+- 🤔 𝐈'𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 **𝐅𝐮𝐥𝐥 𝐓𝐢𝐦𝐞 𝐉𝐨𝐛**
+- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 [𝐡𝐞𝐫𝐞](https://github.com/younusaliakash/younusaliakash/issues/1) ! 𝐈'𝐦 𝐡𝐚𝐩𝐩𝐲 𝐭𝐨 𝐡𝐞𝐥𝐩.
+- 😄 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 : **𝐇𝐞/𝐇𝐢𝐦**
+- ⚡ 𝐅𝐮𝐧 𝐅𝐚𝐜𝐭: **𝐈 𝐥𝐢𝐤𝐞 𝐭𝐨 𝐞𝐚𝐭 𝐁𝐢𝐫𝐞𝐲𝐚𝐧𝐢**
+- <img src="./PNG/house.png" width="20px" height="20px"/> 𝐇𝐨𝐦𝐞 : **𝐑𝐚𝐣𝐬𝐡𝐚𝐡𝐢, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡** <img width="20px" height="20px" src="./PNG/Slytherin_ClearBG.png">
 
 <br/>
 <br/>
@@ -33,15 +33,15 @@
 
 #
 
-<p align="center">
+<!-- <p align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younusaliakash&theme=light&hide_border=true"/>
   </a>
-</p>
+</p> -->
 
 #
 
-**Languages & Tools:**
+**𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐓𝐨𝐨𝐥𝐬:**
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
@@ -55,92 +55,7 @@
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<!-- <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br> -->
 
-
-<!-- <table align="center" overflow="hidden">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/younusaliakash">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=younusaliakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=000000&amp&text_color=000000&amp&bg_color=FFFFFF&count_private=true&include_all_commits=true"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/younusaliakash">
-        <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=younusaliakash&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-      </a>
-      <tr>
-    </td>
-  </tr>
-</table> -->
-
-<!-- <strong>Public Contributions Graph : </strong> -->
-
-<!-- <br/> -->
-
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=younusaliakash&theme=react-dark&hide_border=true&area=true) -->
-<!-- <br/> -->
-
-<!-- <strong>Daily Coding Status ( Included Private & Public Repo ) : </strong> -->
-<!-- <br/> -->
-
-<!-- <a>
-<img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/>
-</a> -->
-
-<!-- <br/> -->
-
-
-<!-- <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/> -->
-
-<!-- <table align="center" overflow="hidden">
-  <tr>
-    <td align="center" width="50%">
-      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/258675c6-9c6c-45b6-bf05-f861e414267a.svg"/>
-    </td>
-    <td align="center" width="50%">
-      <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/c90cc845-b93d-409b-b739-8fb0ae116b6d.svg" />
-      <tr>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/66178523-df88-440f-9bb7-bdf92955d149.svg"/>
-    </td>
-    <td align="center" width="50%">
-      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/78a9d8a1-6912-4697-987c-ebd26539abb0.svg"/>
-      <tr>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/389288b0-8e3d-4eef-a1e8-9afa27aebf19.svg"/>
-    </td>
-    <td align="center" width="50%">
-      <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/108a37ce-431f-46d1-8047-ab2974b55608.svg" />
-      <tr>
-    </td>
-  </tr>
-</table>
-<p align="center"><b>N.B : </b> All Statistic Generating From 30 Oct 2021</p> -->
-
-
-#
-
-<!-- <p align="center">
-  <a href="https://github.com/younusaliakash">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  </a>
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p> -->
 
 <table align="center">
   <tr>
@@ -233,12 +148,9 @@
   </tr>
 </table>
 
-<!-- ![Metrics](https://metrics.lecoq.io/younusaliakash?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&gists=1&people=1&followup=1&lines=1&projects=1&activity=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FDhaka) -->
-
-
 
 <h4>
-  Connect With Me
+  𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
   <a target="_blank">
     <img src="./GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
