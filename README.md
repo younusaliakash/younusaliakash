@@ -1,8 +1,7 @@
 <h1>
-<a target="_blank">
+𝐇𝐞𝐲, 𝐈'𝐦 𝐘𝐨𝐮𝐧𝐮𝐬 𝐀𝐥𝐢 𝐀𝐤𝐚𝐬𝐡 <a target="_blank">
     <img src="./GIF/Hi.gif" width="40px" style="margin-left: -120px;" />
 </a>
-𝐇𝐞𝐲, 𝐈'𝐦 𝐘𝐨𝐮𝐧𝐮𝐬 𝐀𝐥𝐢 𝐀𝐤𝐚𝐬𝐡
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&width=435&lines=+++++++++Hello+%2C+I'm+Younus+Ali+Akash)](https://git.io/typing-svg) -->
 </h1>
 <h3 align="center">
