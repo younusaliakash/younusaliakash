@@ -136,20 +136,20 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 15 August 2023 - To: 22 August 2023
+From: 16 August 2023 - To: 23 August 2023
 
-Total Time: 13 hrs 20 mins
+Total Time: 12 hrs 23 mins
 
-SQL              5 hrs 46 mins   >>>>>>>>>>>--------------   43.31 %
-Vue.js           2 hrs 45 mins   >>>>>--------------------   20.66 %
-TypeScript       1 hr 55 mins    >>>>---------------------   14.37 %
-JavaScript       1 hr 20 mins    >>>----------------------   10.01 %
-Markdown         28 mins         >------------------------   03.58 %
-ActionScript 3   22 mins         >------------------------   02.80 %
-TSQL             20 mins         >------------------------   02.57 %
-Bash             12 mins         -------------------------   01.55 %
-JSON             4 mins          -------------------------   00.59 %
-HTML             2 mins          -------------------------   00.29 %
+SQL              3 hrs 55 mins   >>>>>>>>-----------------   31.69 %
+Vue.js           2 hrs 45 mins   >>>>>>-------------------   22.25 %
+TypeScript       2 hrs 8 mins    >>>>---------------------   17.29 %
+JavaScript       1 hr 20 mins    >>>----------------------   10.77 %
+Markdown         34 mins         >------------------------   04.61 %
+ActionScript 3   32 mins         >------------------------   04.43 %
+TSQL             26 mins         >------------------------   03.61 %
+Bash             17 mins         >------------------------   02.30 %
+Ezhil            9 mins          -------------------------   01.30 %
+JSON             8 mins          -------------------------   01.18 %
 ```
 
 <!--END_SECTION:waka-->
