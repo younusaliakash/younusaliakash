@@ -136,19 +136,17 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-Total Time: 4 hrs 37 mins
+Total Time: 3 hrs 34 mins
 
-Vue.js       2 hrs 52 mins   >>>>>>>>>>>>>>>>---------   62.30 %
-JavaScript   52 mins         >>>>>--------------------   18.81 %
-Markdown     24 mins         >>-----------------------   08.68 %
-JSON         10 mins         >------------------------   03.73 %
-CSS          8 mins          >------------------------   02.91 %
-TOML         4 mins          -------------------------   01.66 %
-Ezhil        3 mins          -------------------------   01.23 %
-HTML         1 min           -------------------------   00.52 %
-Other        0 secs          -------------------------   00.17 %
+JavaScript   1 hr 21 mins    >>>>>>>>>>---------------   38.09 %
+Vue.js       1 hr 5 mins     >>>>>>>>-----------------   30.53 %
+Markdown     45 mins         >>>>>--------------------   21.35 %
+JSON         9 mins          >------------------------   04.60 %
+Ezhil        6 mins          >------------------------   03.11 %
+TOML         4 mins          >------------------------   02.14 %
+Other        0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
