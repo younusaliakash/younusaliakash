@@ -136,16 +136,16 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-Total Time: 6 hrs 54 mins
+Total Time: 13 hrs 39 mins
 
-Markdown       3 hrs 7 mins    >>>>>>>>>>>--------------   45.36 %
-JavaScript     2 hrs 31 mins   >>>>>>>>>----------------   36.52 %
-JSON           58 mins         >>>>---------------------   14.22 %
-CBM BASIC V2   12 mins         >------------------------   03.06 %
-Ezhil          3 mins          -------------------------   00.79 %
-Git Config     0 secs          -------------------------   00.04 %
+Markdown       6 hrs 57 mins   >>>>>>>>>>>>>------------   50.92 %
+JavaScript     5 hrs 27 mins   >>>>>>>>>>---------------   39.92 %
+JSON           58 mins         >>-----------------------   07.19 %
+CBM BASIC V2   12 mins         -------------------------   01.55 %
+Ezhil          3 mins          -------------------------   00.40 %
+Git Config     0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
