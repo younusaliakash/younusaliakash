@@ -136,14 +136,12 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 11 September 2023 - To: 18 September 2023
+From: 12 September 2023 - To: 19 September 2023
 
-Total Time: 11 hrs
+Total Time: 6 hrs 45 mins
 
-Markdown       6 hrs 11 mins   >>>>>>>>>>>>>>-----------   56.22 %
-JavaScript     3 hrs 50 mins   >>>>>>>>>----------------   34.82 %
-JSON           46 mins         >>-----------------------   07.04 %
-CBM BASIC V2   12 mins         -------------------------   01.92 %
+Markdown     3 hrs 49 mins   >>>>>>>>>>>>>>-----------   56.61 %
+JavaScript   2 hrs 55 mins   >>>>>>>>>>>--------------   43.39 %
 ```
 
 <!--END_SECTION:waka-->
