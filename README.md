@@ -136,18 +136,15 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-Total Time: 9 hrs 32 mins
+Total Time: 5 hrs
 
-JavaScript   4 hrs 43 mins   >>>>>>>>>>>>-------------   49.54 %
-Vue.js       4 hrs 5 mins    >>>>>>>>>>>--------------   42.84 %
-CSS          21 mins         >------------------------   03.68 %
-Git Config   9 mins          -------------------------   01.72 %
-JSON         6 mins          -------------------------   01.18 %
-HTML         4 mins          -------------------------   00.73 %
-Markdown     1 min           -------------------------   00.25 %
-Other        0 secs          -------------------------   00.03 %
+JavaScript   4 hrs 31 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.27 %
+Vue.js       12 mins         >------------------------   04.12 %
+Git Config   9 mins          >------------------------   03.27 %
+JSON         6 mins          >------------------------   02.24 %
+Other        0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
