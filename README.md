@@ -1,10 +1,9 @@
-<h1 style="margin-bottom: -30px;">
-𝐇𝐞𝐲, 𝐈'𝐦 𝐘𝐨𝐮𝐧𝐮𝐬 𝐀𝐥𝐢 𝐀𝐤𝐚𝐬𝐡 <a target="_blank">
-    <img src="./GIF/Hi.gif" width="40px" style="margin-left: 10px;"/>
-</a>
+<h2 style="margin-bottom: -30px;">
+𝐇𝐞𝐲, 𝐈'𝐦 𝐘𝐨𝐮𝐧𝐮𝐬 𝐀𝐥𝐢 𝐀𝐤𝐚𝐬𝐡 
+<img src="./GIF/Hi.gif" width="40px" style="margin-left: 10px;"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=𝐀+𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞+𝐅𝐮𝐥𝐥+𝐒𝐭𝐚𝐜𝐤+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫;𝐄𝐱𝐩𝐞𝐫𝐭+𝐢𝐧+𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭%2C𝐓𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭+𝐚𝐧𝐝;𝐎𝐭𝐡𝐞𝐫+𝐌𝐨𝐝𝐞𝐫𝐧+𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬;𝐓𝐡𝐚𝐧𝐤𝐬+𝐟𝐨𝐫+𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠!)](https://git.io/typing-svg)
-</h1>
+</h2>
 
 <br/>
 <br/>
@@ -91,14 +90,14 @@
         <img src=".github/src/metrics.plugin.achievements.compact.svg" alt="Achievements Compact Display" width="400"></img>
     </td>
   </tr> -->
-  <tr>
+  <!-- <tr>
     <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younusaliakash&theme=github"/>
     </td>
     <td align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younusaliakash&theme=github&utcOffset=6"/>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/258675c6-9c6c-45b6-bf05-f861e414267a.svg"/>
