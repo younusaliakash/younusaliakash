@@ -134,15 +134,15 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 October 2023 - To: 17 October 2023
+From: 11 October 2023 - To: 18 October 2023
 
-Total Time: 2 hrs 27 mins
+Total Time: 2 hrs 9 mins
 
-JavaScript   1 hr 13 mins    >>>>>>>>>>>>-------------   49.91 %
-Vue.js       1 hr 9 mins     >>>>>>>>>>>>-------------   47.60 %
-Markdown     2 mins          -------------------------   01.90 %
-HTML         0 secs          -------------------------   00.47 %
-CSS          0 secs          -------------------------   00.12 %
+JavaScript   1 hr 13 mins    >>>>>>>>>>>>>>-----------   56.57 %
+Vue.js       52 mins         >>>>>>>>>>---------------   40.62 %
+Markdown     2 mins          >------------------------   02.15 %
+HTML         0 secs          -------------------------   00.53 %
+CSS          0 secs          -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->
