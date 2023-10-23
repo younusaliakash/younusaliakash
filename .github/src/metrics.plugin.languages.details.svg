@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 132kb of code in 53 edited files across 38 commits over last 14 days</small>
+                <small>estimation from 58.6kb of code in 27 edited files across 30 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.71709859056415" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="417.71709859056415" y="0" width="38.055817857517575" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.77291644808173" y="0" width="2.763088867904732" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.5360053159864" y="0" width="1.4639946840135698" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.0789074355083" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="432.0789074355083" y="0" width="25.78168417318645" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.8605916086948" y="0" width="1.649882742447234" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.510474351142" y="0" width="0.48952564885797056" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,20 +37,20 @@
                                 Vue
                             </div>
                             <small>
-                                <div>2.58k lines</div>
-                                <div>90.81%</div>
+                                <div>1.21k lines</div>
+                                <div>93.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                CSS
                             </div>
                             <small>
-                                <div>15 lines</div>
-                                <div>0.6%</div>
+                                <div>10 lines</div>
+                                <div>0.36%</div>
                             </small>
                         </div>
                     </section>
@@ -63,20 +63,20 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>365 lines</div>
-                                <div>8.27%</div>
+                                <div>120 lines</div>
+                                <div>5.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                HTML
                             </div>
                             <small>
-                                <div>19 lines</div>
-                                <div>0.32%</div>
+                                <div>2 lines</div>
+                                <div>0.11%</div>
                             </small>
                         </div>
                     </section>
