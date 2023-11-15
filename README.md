@@ -134,11 +134,15 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 November 2023 - To: 12 November 2023
+From: 07 November 2023 - To: 14 November 2023
 
-Total Time: 0 secs
+Total Time: 20 mins
 
-No activity tracked
+Vue.js       12 mins         >>>>>>>>>>>>>>>----------   60.01 %
+Markdown     4 mins          >>>>>--------------------   19.81 %
+CSS          3 mins          >>>>---------------------   16.66 %
+HTML         0 secs          >------------------------   02.73 %
+JavaScript   0 secs          -------------------------   00.78 %
 ```
 
 <!--END_SECTION:waka-->
