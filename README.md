@@ -134,13 +134,11 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 November 2023 - To: 07 December 2023
+From: 01 December 2023 - To: 08 December 2023
 
-Total Time: 23 mins
+Total Time: 0 secs
 
-Liquid   15 mins         >>>>>>>>>>>>>>>>---------   64.13 %
-JSON     8 mins          >>>>>>>>>----------------   34.06 %
-XML      0 secs          -------------------------   01.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
