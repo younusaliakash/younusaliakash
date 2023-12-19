@@ -134,16 +134,15 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 December 2023 - To: 17 December 2023
+From: 11 December 2023 - To: 18 December 2023
 
-Total Time: 10 hrs 43 mins
+Total Time: 4 hrs 56 mins
 
-JavaScript   5 hrs 16 mins   >>>>>>>>>>>>-------------   49.12 %
-Liquid       3 hrs 21 mins   >>>>>>>>-----------------   31.25 %
-CSS          1 hr 24 mins    >>>----------------------   13.11 %
-HTML         22 mins         >------------------------   03.43 %
-JSON         19 mins         >------------------------   03.07 %
-Other        0 secs          -------------------------   00.03 %
+Liquid       3 hrs 21 mins   >>>>>>>>>>>>>>>>>--------   67.87 %
+CSS          44 mins         >>>>---------------------   14.92 %
+JavaScript   29 mins         >>-----------------------   09.83 %
+JSON         19 mins         >>-----------------------   06.68 %
+HTML         2 mins          -------------------------   00.71 %
 ```
 
 <!--END_SECTION:waka-->
