@@ -134,17 +134,17 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 14 December 2023 - To: 21 December 2023
+From: 15 December 2023 - To: 22 December 2023
 
-Total Time: 5 hrs
+Total Time: 9 hrs 49 mins
 
-TypeScript   3 hrs 53 mins   >>>>>>>>>>>>>>>>>>>------   77.87 %
-JSON         28 mins         >>-----------------------   09.46 %
-Bash         18 mins         >>-----------------------   06.31 %
-CSS          11 mins         >------------------------   03.70 %
-JavaScript   6 mins          >------------------------   02.09 %
-Liquid       1 min           -------------------------   00.50 %
-Git Config   0 secs          -------------------------   00.06 %
+TypeScript   8 hrs 40 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.23 %
+Bash         18 mins         >------------------------   03.22 %
+Markdown     17 mins         >------------------------   03.01 %
+CSS          16 mins         >------------------------   02.71 %
+JSON         10 mins         -------------------------   01.81 %
+JavaScript   5 mins          -------------------------   00.98 %
+Git Config   0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
