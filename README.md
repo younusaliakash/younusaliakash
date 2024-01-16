@@ -134,12 +134,12 @@
       <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 January 2024 - To: 14 January 2024
+From: 08 January 2024 - To: 15 January 2024
 
-Total Time: 8 hrs 24 mins
+Total Time: 7 hrs 55 mins
 
-TypeScript   6 hrs 26 mins   >>>>>>>>>>>>>>>>>>>------   76.74 %
-Liquid       1 hr 56 mins    >>>>>>-------------------   23.18 %
+TypeScript   5 hrs 58 mins   >>>>>>>>>>>>>>>>>>>------   75.36 %
+Liquid       1 hr 56 mins    >>>>>>-------------------   24.56 %
 CSS          0 secs          -------------------------   00.07 %
 JSON         0 secs          -------------------------   00.01 %
 ```
