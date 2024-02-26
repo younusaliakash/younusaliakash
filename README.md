@@ -128,12 +128,6 @@
        <img src=".github/src/metrics.plugin.people.repository.svg" alt="People reprository" width="50%"></img>
     </td>
   </tr>
-  <!-- <tr>
-    <td align="center" colspan="2">
-      <img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="60%"></img>
-      <details><summary>Full history</summary><img src=".github/src/metrics.plugin.calendar.full.svg" alt="Full history" ></img></details>
-    </td>
-  </tr> -->
 </table>
 
 
