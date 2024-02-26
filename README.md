@@ -81,22 +81,6 @@
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=younusaliakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=000000&amp&text_color=000000&amp&bg_color=FFFFFF&count_private=true&include_all_commits=true"/>
     </td
   </tr>
-  <!-- <tr>
-    <td align="center">
-        <img src=".github/src/metrics.plugin.starlists.languages.svg" alt="Featured star list languages" width="400"></img> 
-    </td>
-    <td align="center">
-        <img src=".github/src/metrics.plugin.achievements.compact.svg" alt="Achievements Compact Display" width="400"></img>
-    </td>
-  </tr> -->
-  <!-- <tr>
-    <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younusaliakash&theme=github"/>
-    </td>
-    <td align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younusaliakash&theme=github&utcOffset=6"/>
-    </td>
-  </tr> -->
   <tr>
     <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/258675c6-9c6c-45b6-bf05-f861e414267a.svg"/>
@@ -124,26 +108,10 @@
       <tr>
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td align="center" colspan="2">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=younusaliakash&theme=react-light&area=true&hide_border=true#gh-dark-mode-only" width="100%">
     </td>
-  </tr> -->
-  <tr>
-    <td align="center" colspan="2">
-      <!--START_SECTION:waka-->
-
-```all_time
-From: 17 February 2024 - To: 24 February 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
- </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
