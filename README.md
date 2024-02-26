@@ -5,6 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=000000FD&random=false&width=435&lines=%F0%9D%90%80+%F0%9D%90%8F%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E+%F0%9D%90%92%F0%9D%90%A8%F0%9D%90%9F%F0%9D%90%AD%F0%9D%90%B0%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9E+%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB;%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AD+%F0%9D%90%A2%F0%9D%90%A7+%F0%9D%90%89%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AD%2C+%F0%9D%90%93%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AD+%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D+;%F0%9D%90%8E%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7+%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%A7%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AC;%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A4%F0%9D%90%AC+%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0!)](https://git.io/typing-svg)
 </h3>
 <img src="./PNG/younusaliakash.png" alt="younusaliaksh"/>
+<p align="center">
+  <img src="https://wakatime.com/badge/user/3c333039-dcef-431c-a7f7-e4bbb4219184.svg" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
+  <img src="https://komarev.com/ghpvc/?username=younusaliakash" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/younusaliakash?label=Followers&style=social"> •  
+ <img src="https://img.shields.io/github/stars/younusaliakash?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+
+</p>
 
 <a target="_blank">
   <img align="right" height="280" width="400" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
@@ -21,14 +28,6 @@
 
 <br/>
 <br/>
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/3c333039-dcef-431c-a7f7-e4bbb4219184.svg" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
-  <img src="https://komarev.com/ghpvc/?username=younusaliakash" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/younusaliakash?label=Followers&style=social"> •  
- <img src="https://img.shields.io/github/stars/younusaliakash?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-
-</p>
 
 <!-- <p align="center">
   <a>
