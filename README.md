@@ -6,11 +6,11 @@
 
 <br/>
 <br/>
-<a target="_blank">
+<!-- <a target="_blank">
   <img align="right" height="280" width="400" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
-</a>
+</a> -->
 
-- 🔭 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 **𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
+<!-- - 🔭 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 **𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
 - 🌱 𝐈'𝐦 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 **𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬**
 - 👯 𝐈'𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐂𝐥𝐨𝐮𝐝**
 - 🤔 𝐈'𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 **𝐅𝐮𝐥𝐥 𝐓𝐢𝐦𝐞 𝐉𝐨𝐛**
@@ -20,20 +20,21 @@
 - <img src="./PNG/house.png" width="20px" height="20px"/> 𝐇𝐨𝐦𝐞 : **𝐑𝐚𝐣𝐬𝐡𝐚𝐡𝐢, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡** <img width="20px" height="20px" src="./PNG/Slytherin_ClearBG.png">
 
 <br/>
-<br/>
+<br/> -->
 
 <p align="center">
+  <img src="https://wakatime.com/badge/user/3c333039-dcef-431c-a7f7-e4bbb4219184.svg" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
   <img src="https://komarev.com/ghpvc/?username=younusaliakash" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/younusaliakash?label=Followers&style=social"> •  
  <img src="https://img.shields.io/github/stars/younusaliakash?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younusaliakash&theme=light&hide_border=true"/>
   </a>
-</p> -->
+</p>
 
 #
 
@@ -63,7 +64,7 @@
       <tr>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/389288b0-8e3d-4eef-a1e8-9afa27aebf19.svg"/>
     </td>
@@ -71,7 +72,7 @@
       <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=younusaliakash"/>
       <tr>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td align="center" colspan="2">
       <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/>
