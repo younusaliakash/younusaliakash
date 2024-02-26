@@ -56,42 +56,6 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src=".github/src/metrics.base.svg" alt="Base" width=></img>
-    </td>
-    <td align="center" width="50%">
-      <img src=".github/src/metrics.plugin.isocalendar.svg" alt="Full-year calendar"></img>
-      <tr>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src=".github/src/metrics.plugin.habits.charts.svg" alt="Habits charts"></img>
-    </td>
-    <td align="center" width="50%">
-       <img src=".github/src/metrics.plugin.followup.user.svg" alt="Follow up"</img>
-    </td>
-  </tr>
-  <tr>
-    <td  align="center" width="50%">
-      <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younusaliakash&layout=compact&langs_count=10" alt="Top Languages"></img>
-    </td>
-    <td  align="center" width="50%">
-       <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img>
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=younusaliakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=000000&amp&text_color=000000&amp&bg_color=FFFFFF&count_private=true&include_all_commits=true"/>
-    </td
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/258675c6-9c6c-45b6-bf05-f861e414267a.svg"/>
-    </td>
-    <td align="center" width="50%">
-      <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@younusaliakash/c90cc845-b93d-409b-b739-8fb0ae116b6d.svg" />
-      <tr>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/66178523-df88-440f-9bb7-bdf92955d149.svg"/>
     </td>
     <td align="center" width="50%">
@@ -110,17 +74,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=younusaliakash&theme=react-light&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
       <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src=".github/src/metrics.plugin.reactions.svg" alt="Reactions" width="50%"></img>
     </td>
   </tr>
 </table>
