@@ -12,6 +12,8 @@
  <img src="https://img.shields.io/github/stars/younusaliakash?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
 </p>
+<br/>
+<br/>
 
 <a target="_blank">
   <img align="right" height="280" width="400" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
@@ -25,9 +27,6 @@
 - 😄 𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 : **𝐇𝐞/𝐇𝐢𝐦**
 - ⚡ 𝐅𝐮𝐧 𝐅𝐚𝐜𝐭: **𝐈 𝐥𝐢𝐤𝐞 𝐭𝐨 𝐞𝐚𝐭 𝐁𝐢𝐫𝐞𝐲𝐚𝐧𝐢**
 - <img src="./PNG/house.png" width="20px" height="20px"/> 𝐇𝐨𝐦𝐞 : **𝐑𝐚𝐣𝐬𝐡𝐚𝐡𝐢, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡** <img width="20px" height="20px" src="./PNG/Slytherin_ClearBG.png">
-
-<br/>
-<br/>
 
 <!-- <p align="center">
   <a>
