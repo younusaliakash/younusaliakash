@@ -2,12 +2,10 @@
 <h3 style="margin-bottom: -30px;">
 𝐇𝐞𝐲, 𝐈'𝐦 𝐘𝐨𝐮𝐧𝐮𝐬 𝐀𝐥𝐢 𝐀𝐤𝐚𝐬𝐡 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=𝐀+𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞+𝐅𝐮𝐥𝐥+𝐒𝐭𝐚𝐜𝐤+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫;𝐄𝐱𝐩𝐞𝐫𝐭+𝐢𝐧+𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭%2C𝐓𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭+𝐚𝐧𝐝;𝐎𝐭𝐡𝐞𝐫+𝐌𝐨𝐝𝐞𝐫𝐧+𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬;𝐓𝐡𝐚𝐧𝐤𝐬+𝐟𝐨𝐫+𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=𝐀+𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞+𝐅𝐮𝐥𝐥+𝐒𝐭𝐚𝐜𝐤+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫;𝐄𝐱𝐩𝐞𝐫𝐭+𝐢𝐧+𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭%2C𝐓𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭+𝐚𝐧𝐝;𝐎𝐭𝐡𝐞𝐫+𝐌𝐨𝐝𝐞𝐫𝐧+𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬;𝐓𝐡𝐚𝐧𝐤𝐬+𝐟𝐨𝐫+𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠!)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=000000FD&random=false&width=435&lines=%F0%9D%90%80+%F0%9D%90%8F%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E+%F0%9D%90%92%F0%9D%90%A8%F0%9D%90%9F%F0%9D%90%AD%F0%9D%90%B0%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9E+%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB;%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AD+%F0%9D%90%A2%F0%9D%90%A7+%F0%9D%90%89%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AD%2C+%F0%9D%90%93%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AD+%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D+;%F0%9D%90%8E%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7+%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%A7%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AC;%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A4%F0%9D%90%AC+%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0!)](https://git.io/typing-svg)
 </h3>
 <img src="./PNG/younusaliakash.png" alt="younusaliaksh"/>
-<br/>
-<br/>
-
 
 <!-- <a target="_blank">
   <img align="right" height="280" width="400" alt="GIF" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
