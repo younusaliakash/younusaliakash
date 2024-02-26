@@ -123,11 +123,6 @@
       <img src=".github/src/metrics.plugin.reactions.svg" alt="Reactions" width="50%"></img>
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-       <img src=".github/src/metrics.plugin.people.repository.svg" alt="People reprository" width="50%"></img>
-    </td>
-  </tr>
 </table>
 
 
