@@ -77,10 +77,8 @@
   </tr>
 </table>
 
-This is my fancy README
-
-<!-- start: YOUR_STARTER -->
-<!-- end: YOUR_STARTER -->
+<!--START_SECTION:topics-->
+<!--END_SECTION:topics-->
 
 
 <h4>
