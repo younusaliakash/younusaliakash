@@ -70,56 +70,12 @@
       <tr>
     </td>
   </tr> -->
-  <tr>
+  <!-- <tr>
     <td align="center" colspan="2">
-      <!-- <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/> -->
+      <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/>
     </td>
-  </tr>
+  </tr> -->
 </table>
-
-<!--START_SECTION:topics-->
-
-## Topics
-
-
-### API
-
-| Name  | Description | Stars | Language | Update |
-| ----- | ----------- | ----- | -------- | ------ |
-| [dad-jokes](https://github.com/younusaliakash/dad-jokes) | A humorous application where jokes are randomly generated using a third party API. | 1 | CSS | 18 months ago |
-
-### AUTOMATION
-
-| Name  | Description | Stars | Language | Update |
-| ----- | ----------- | ----- | -------- | ------ |
-
-### CHALLENGE
-
-| Name  | Description | Stars | Language | Update |
-| ----- | ----------- | ----- | -------- | ------ |
-
-### CLI
-
-| Name  | Description | Stars | Language | Update |
-| ----- | ----------- | ----- | -------- | ------ |
-
-### GITHUB-ACTIONS
-
-| Name  | Description | Stars | Language | Update |
-| ----- | ----------- | ----- | -------- | ------ |
-| [younusaliakash](https://github.com/younusaliakash/younusaliakash) | It's a special repo. This is all about my working status using GitHub workflow and other API's. | 4 | null | this month |
-
-### NPM-PACKAGE
-
-| Name  | Description | Stars | Language | Update |
-| ----- | ----------- | ----- | -------- | ------ |
-
-### THEME
-
-| Name  | Description | Stars | Language | Update |
-| ----- | ----------- | ----- | -------- | ------ |
-<!--END_SECTION:topics-->
-
 
 <h4>
   𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
