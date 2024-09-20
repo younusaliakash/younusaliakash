@@ -44,6 +44,16 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younusaliakash&theme=github_dark)
+    </td>
+    <td align="center" width="50%">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younusaliakash&theme=github_dark)
+      <tr>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/66178523-df88-440f-9bb7-bdf92955d149.svg"/>
     </td>
     <td align="center" width="50%">
@@ -51,7 +61,7 @@
       <tr>
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/389288b0-8e3d-4eef-a1e8-9afa27aebf19.svg"/>
     </td>
@@ -59,7 +69,7 @@
       <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=younusaliakash"/>
       <tr>
     </td>
-  </tr> -->
+  </tr>
   <tr>
     <td align="center" colspan="2">
       <!-- <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/> -->
@@ -92,3 +102,4 @@
 </p>
 
 <!-- <img src="./GIF/Hi.gif" width="40px" style="margin-left: 10px;"/> -->
+
