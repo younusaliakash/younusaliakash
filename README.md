@@ -62,7 +62,7 @@
   </tr> -->
   <tr>
     <td align="center" colspan="2">
-      <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/>
+      <!-- <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/> -->
     </td>
   </tr>
 </table>
