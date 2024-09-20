@@ -45,10 +45,10 @@
   <tr>
     <td align="center" width="50%">
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younusaliakash&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younusaliakash&theme=transparent)
     </td>
     <td align="center" width="50%">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younusaliakash&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younusaliakash&theme=transparent&utcOffset=+6)
       <tr>
     </td>
   </tr>
@@ -57,11 +57,11 @@
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/66178523-df88-440f-9bb7-bdf92955d149.svg"/>
     </td>
     <td align="center" width="50%">
-      <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/78a9d8a1-6912-4697-987c-ebd26539abb0.svg"/>
+      <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=younusaliakash"/>
       <tr>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/389288b0-8e3d-4eef-a1e8-9afa27aebf19.svg"/>
     </td>
@@ -69,7 +69,7 @@
       <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=younusaliakash"/>
       <tr>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td align="center" colspan="2">
       <!-- <img align="center" width="100%" height="160px" src="https://wakatime.com/share/@younusaliakash/17119d39-561b-4dfb-b414-895b20d5f3c6.svg"/> -->
