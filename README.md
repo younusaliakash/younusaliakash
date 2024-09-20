@@ -78,6 +78,46 @@
 </table>
 
 <!--START_SECTION:topics-->
+
+## Topics
+
+
+### API
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+| [dad-jokes](https://github.com/younusaliakash/dad-jokes) | A humorous application where jokes are randomly generated using a third party API. | 1 | CSS | 18 months ago |
+
+### AUTOMATION
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+
+### CHALLENGE
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+
+### CLI
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+
+### GITHUB-ACTIONS
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+| [younusaliakash](https://github.com/younusaliakash/younusaliakash) | It's a special repo. This is all about my working status using GitHub workflow and other API's. | 4 | null | this month |
+
+### NPM-PACKAGE
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+
+### THEME
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
 <!--END_SECTION:topics-->
 
 
