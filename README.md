@@ -57,7 +57,8 @@
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/66178523-df88-440f-9bb7-bdf92955d149.svg"/>
     </td>
     <td align="center" width="50%">
-      <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=younusaliakash"/>
+    <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=younusaliakash&layout=compact"/>
+      <!-- <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=younusaliakash"/> -->
     </td>
   </tr>
   <!-- <tr>
