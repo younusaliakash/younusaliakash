@@ -58,7 +58,6 @@
     </td>
     <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=younusaliakash"/>
-      <tr>
     </td>
   </tr>
   <!-- <tr>
