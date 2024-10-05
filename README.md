@@ -61,6 +61,10 @@
       <!-- <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=younusaliakash"/> -->
     </td>
   </tr>
+  <tr>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  </tr>
   <!-- <tr>
     <td align="center" width="50%">
       <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@younusaliakash/389288b0-8e3d-4eef-a1e8-9afa27aebf19.svg"/>
