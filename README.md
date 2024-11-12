@@ -95,9 +95,6 @@
   <a href="https://twitter.com/younusali_akash" target="_blank">
     <code><img height="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></code>
   </a>
-  <a href="https://play.google.com/store/apps/developer?id=Younus+Ali+Akash+Software+Technology+Park+%28ASTP%29" target="_blank">
-    <code><img height="22px" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></code>
-  </a>
 </p>
 
 <!-- <img src="./GIF/Hi.gif" width="40px" style="margin-left: 10px;"/> -->
